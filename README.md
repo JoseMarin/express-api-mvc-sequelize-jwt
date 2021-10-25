@@ -3,7 +3,7 @@
 ## COMANDOS BÁSICOS
 <br>
 
-![image](https://user-images.githubusercontent.com/16636086/138618084-e6776834-ff59-4763-9489-98afb98b9283.png)
+![image](https://user-images.githubusercontent.com/16636086/138780246-dc69ba86-c111-42e6-8079-35ffeba723f9.png)
 
 
 ```
